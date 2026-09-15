@@ -1,11 +1,32 @@
 import json
+import os
+import subprocess
 import sys
 from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
+# The editor's Python Run button does not invoke Streamlit itself.
+if __name__ == "__main__" and os.environ.get("STREAMLIT_APP_STARTED") != "1":
+    environment = os.environ.copy()
+    environment["STREAMLIT_APP_STARTED"] = "1"
+    raise SystemExit(subprocess.call(
+        [
+            sys.executable,
+            "-m",
+            "streamlit",
+            "run",
+            str(Path(__file__).resolve()),
+            *sys.argv[1:],
+        ],
+        cwd=PROJECT_ROOT,
+        env=environment,
+    ))
+
 
 import streamlit as st
 
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
