@@ -1,6 +1,12 @@
 
 import json
+import sys
 from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
 
 import ollama
 from datetime import datetime
@@ -8,14 +14,20 @@ from governance.policy import check_action
 from governance.saftey_checks import check_report
 from governance.pii_detection import detect_pii
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
-
-from .tools import (
-    get_metrics,
-    get_tool_metrics,
-    get_recent_errors,
-    compare_periods
-)
+if __package__ in (None, ""):
+    from ai_agent.tools import (
+        get_metrics,
+        get_tool_metrics,
+        get_recent_errors,
+        compare_periods,
+    )
+else:
+    from .tools import (
+        get_metrics,
+        get_tool_metrics,
+        get_recent_errors,
+        compare_periods,
+    )
 
 
 def save_report(incident, report):
