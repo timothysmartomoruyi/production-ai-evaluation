@@ -27,6 +27,9 @@ This project explores how an AI incident-response system can be designed to:
 * Keep potentially dangerous production actions behind human approval
 * Replay incidents for repeatable testing
 
+This project was create using promtes from VSCode Assistance and ChatGPT. 
+I plan to recreate this project with minimal assistance but main idea for the project was to understand the logic behind the project.
+
 ⸻
 
 Architecture
