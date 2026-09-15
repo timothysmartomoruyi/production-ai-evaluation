@@ -1,34 +1,13 @@
 import json
-import os
-import subprocess
 import sys
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
-# The editor's Python Run button does not invoke Streamlit itself.
-if __name__ == "__main__" and os.environ.get("STREAMLIT_APP_STARTED") != "1":
-    environment = os.environ.copy()
-    environment["STREAMLIT_APP_STARTED"] = "1"
-    raise SystemExit(subprocess.call(
-        [
-            sys.executable,
-            "-m",
-            "streamlit",
-            "run",
-            str(Path(__file__).resolve()),
-            *sys.argv[1:],
-        ],
-        cwd=PROJECT_ROOT,
-        env=environment,
-    ))
-
-
-import streamlit as st
-
-
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
+
+import streamlit as st
 
 from observability.metrics import calculate_metrics, analyse_tools, load_logs
 from observability.alerts import detect_incidents
@@ -42,6 +21,8 @@ st.set_page_config(
 st.title("AI Incident Response Platform")
 st.caption("Production AI monitoring and incident investigation")
 
+
+REPORTS_DIR = PROJECT_ROOT / "incidents" / "reports"
 
 # Load production data
 logs = load_logs()
@@ -161,16 +142,11 @@ st.header("AI Incident Investigation")
 report_files = []
 
 try:
-
-    import os
-
     report_files = sorted(
-        os.listdir("incidents/reports"),
-        reverse=True
+        [path.name for path in REPORTS_DIR.iterdir() if path.is_file()],
+        reverse=True,
     )
-
 except FileNotFoundError:
-
     pass
 
 
@@ -178,14 +154,10 @@ if report_files:
 
     selected_report = st.selectbox(
         "Select an incident report",
-        report_files
+        report_files,
     )
 
-    with open(
-        f"incidents/reports/{selected_report}",
-        "r"
-    ) as file:
-
+    with (REPORTS_DIR / selected_report).open("r") as file:
         report_data = json.load(file)
 
     st.subheader("Incident")

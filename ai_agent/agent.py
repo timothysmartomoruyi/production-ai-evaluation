@@ -1,10 +1,14 @@
 
 import json
+from pathlib import Path
+
 import ollama
 from datetime import datetime
 from governance.policy import check_action
 from governance.saftey_checks import check_report
 from governance.pii_detection import detect_pii
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 from .tools import (
     get_metrics,
@@ -16,9 +20,12 @@ from .tools import (
 
 def save_report(incident, report):
 
+    reports_dir = PROJECT_ROOT / "incidents" / "reports"
+    reports_dir.mkdir(parents=True, exist_ok=True)
+
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
-    filename = f"incidents/reports/incident_{timestamp}.json"
+    filename = reports_dir / f"incident_{timestamp}.json"
 
     data = {
         "timestamp": timestamp,
@@ -26,7 +33,7 @@ def save_report(incident, report):
         "report": report
     }
 
-    with open(filename, "w") as file:
+    with filename.open("w") as file:
         json.dump(data, file, indent=2)
 
     print(f"\nReport saved to: {filename}")

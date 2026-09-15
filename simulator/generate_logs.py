@@ -1,6 +1,9 @@
 import random
 import json
 from datetime import datetime, timedelta
+from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 
 def generate_logs(num_requests=500):
@@ -42,7 +45,10 @@ def generate_logs(num_requests=500):
 if __name__ == "__main__":
     logs = generate_logs()
 
-    with open("incidents/production_logs.json", "w") as file:
+    output_path = PROJECT_ROOT / "incidents" / "production_logs.json"
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    with output_path.open("w") as file:
         json.dump(logs, file, indent=2)
 
     print(f"Generated {len(logs)} production logs.")

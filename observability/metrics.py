@@ -1,10 +1,19 @@
 import json
 import statistics
-from collections import Counter
+from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 
-def load_logs(path="incidents/production_logs.json"):
-    with open(path, "r") as file:
+def load_logs(path=None):
+    if path is None:
+        path = PROJECT_ROOT / "incidents" / "production_logs.json"
+    else:
+        path = Path(path)
+        if not path.is_absolute():
+            path = PROJECT_ROOT / path
+
+    with path.open("r") as file:
         return json.load(file)
 
 

@@ -1,10 +1,13 @@
 import json
 import os
+from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 
 def load_dataset():
-
-    with open("evaluation/dataset.json", "r") as file:
+    dataset_path = PROJECT_ROOT / "evaluation" / "dataset.json"
+    with dataset_path.open("r") as file:
         return json.load(file)
 
 
@@ -60,9 +63,9 @@ def evaluate_saved_reports():
 
     dataset = load_dataset()
 
-    reports_directory = "incidents/reports"
+    reports_directory = PROJECT_ROOT / "incidents" / "reports"
 
-    if not os.path.exists(reports_directory):
+    if not reports_directory.exists():
         print("No incident reports directory found.")
         return
 
@@ -80,9 +83,9 @@ def evaluate_saved_reports():
 
     for report_file in sorted(report_files):
 
-        path = os.path.join(reports_directory, report_file)
+        path = reports_directory / report_file
 
-        with open(path, "r") as file:
+        with path.open("r") as file:
             report_data = json.load(file)
 
         report = report_data["report"]
@@ -103,10 +106,7 @@ def evaluate_saved_reports():
 
         result = evaluate_report(report, matching_test)
 
-        evaluation_path = path.replace(
-            ".json",
-            "_evaluation.json"
-        )
+        evaluation_path = path.with_name(path.stem + "_evaluation.json")
 
         evaluation_data = {
             "report_file": report_file,
@@ -114,7 +114,7 @@ def evaluate_saved_reports():
             "evaluation": result
         }
 
-        with open(evaluation_path, "w") as file:
+        with evaluation_path.open("w") as file:
             json.dump(evaluation_data, file, indent=2)
 
         print(f"Report: {report_file}")
