@@ -1,0 +1,17 @@
+{
+  "report_file": "incident_20260915_015220.json",
+  "incident": {
+    "type": "TOOL_FAILURE",
+    "severity": "HIGH",
+    "tool": "sql",
+    "message": "sql error rate is 30.15%"
+  },
+  "evaluation": {
+    "cause_match": true,
+    "evidence_score": 1.0,
+    "grounding_score": 1.0,
+    "overall_score": 1.0,
+    "unsupported_claims": [],
+    "passed": true
+  }
+}

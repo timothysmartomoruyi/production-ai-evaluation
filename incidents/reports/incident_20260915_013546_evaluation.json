@@ -1,0 +1,16 @@
+{
+  "report_file": "incident_20260915_013546.json",
+  "incident": {
+    "type": "HIGH_ERROR_RATE",
+    "severity": "HIGH",
+    "message": "Error rate is 19.6%"
+  },
+  "evaluation": {
+    "cause_match": false,
+    "evidence_score": 0.67,
+    "grounding_score": 1.0,
+    "overall_score": 0.56,
+    "unsupported_claims": [],
+    "passed": false
+  }
+}

@@ -1,0 +1,4002 @@
+[
+  {
+    "request_id": "REQ-00001",
+    "timestamp": "2026-09-14T21:36:12.557555",
+    "latency_ms": 1145,
+    "status": "success",
+    "tool": "none",
+    "tokens": 832
+  },
+  {
+    "request_id": "REQ-00002",
+    "timestamp": "2026-09-14T21:36:19.557555",
+    "latency_ms": 1114,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 415
+  },
+  {
+    "request_id": "REQ-00003",
+    "timestamp": "2026-09-14T21:36:26.557555",
+    "latency_ms": 534,
+    "status": "success",
+    "tool": "none",
+    "tokens": 1077
+  },
+  {
+    "request_id": "REQ-00004",
+    "timestamp": "2026-09-14T21:36:33.557555",
+    "latency_ms": 634,
+    "status": "success",
+    "tool": "none",
+    "tokens": 714
+  },
+  {
+    "request_id": "REQ-00005",
+    "timestamp": "2026-09-14T21:36:40.557555",
+    "latency_ms": 1125,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 371
+  },
+  {
+    "request_id": "REQ-00006",
+    "timestamp": "2026-09-14T21:36:47.557555",
+    "latency_ms": 820,
+    "status": "success",
+    "tool": "none",
+    "tokens": 1176
+  },
+  {
+    "request_id": "REQ-00007",
+    "timestamp": "2026-09-14T21:36:54.557555",
+    "latency_ms": 1123,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 992
+  },
+  {
+    "request_id": "REQ-00008",
+    "timestamp": "2026-09-14T21:37:01.557555",
+    "latency_ms": 402,
+    "status": "success",
+    "tool": "none",
+    "tokens": 1014
+  },
+  {
+    "request_id": "REQ-00009",
+    "timestamp": "2026-09-14T21:37:08.557555",
+    "latency_ms": 520,
+    "status": "success",
+    "tool": "none",
+    "tokens": 720
+  },
+  {
+    "request_id": "REQ-00010",
+    "timestamp": "2026-09-14T21:37:15.557555",
+    "latency_ms": 907,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1149
+  },
+  {
+    "request_id": "REQ-00011",
+    "timestamp": "2026-09-14T21:37:22.557555",
+    "latency_ms": 700,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1119
+  },
+  {
+    "request_id": "REQ-00012",
+    "timestamp": "2026-09-14T21:37:29.557555",
+    "latency_ms": 817,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1145
+  },
+  {
+    "request_id": "REQ-00013",
+    "timestamp": "2026-09-14T21:37:36.557555",
+    "latency_ms": 1186,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 463
+  },
+  {
+    "request_id": "REQ-00014",
+    "timestamp": "2026-09-14T21:37:43.557555",
+    "latency_ms": 322,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 592
+  },
+  {
+    "request_id": "REQ-00015",
+    "timestamp": "2026-09-14T21:37:50.557555",
+    "latency_ms": 410,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 615
+  },
+  {
+    "request_id": "REQ-00016",
+    "timestamp": "2026-09-14T21:37:57.557555",
+    "latency_ms": 1035,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 702
+  },
+  {
+    "request_id": "REQ-00017",
+    "timestamp": "2026-09-14T21:38:04.557555",
+    "latency_ms": 1111,
+    "status": "success",
+    "tool": "none",
+    "tokens": 403
+  },
+  {
+    "request_id": "REQ-00018",
+    "timestamp": "2026-09-14T21:38:11.557555",
+    "latency_ms": 1104,
+    "status": "success",
+    "tool": "none",
+    "tokens": 305
+  },
+  {
+    "request_id": "REQ-00019",
+    "timestamp": "2026-09-14T21:38:18.557555",
+    "latency_ms": 550,
+    "status": "success",
+    "tool": "none",
+    "tokens": 394
+  },
+  {
+    "request_id": "REQ-00020",
+    "timestamp": "2026-09-14T21:38:25.557555",
+    "latency_ms": 747,
+    "status": "success",
+    "tool": "none",
+    "tokens": 1115
+  },
+  {
+    "request_id": "REQ-00021",
+    "timestamp": "2026-09-14T21:38:32.557555",
+    "latency_ms": 470,
+    "status": "success",
+    "tool": "none",
+    "tokens": 595
+  },
+  {
+    "request_id": "REQ-00022",
+    "timestamp": "2026-09-14T21:38:39.557555",
+    "latency_ms": 784,
+    "status": "success",
+    "tool": "none",
+    "tokens": 728
+  },
+  {
+    "request_id": "REQ-00023",
+    "timestamp": "2026-09-14T21:38:46.557555",
+    "latency_ms": 1091,
+    "status": "success",
+    "tool": "none",
+    "tokens": 692
+  },
+  {
+    "request_id": "REQ-00024",
+    "timestamp": "2026-09-14T21:38:53.557555",
+    "latency_ms": 1089,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 772
+  },
+  {
+    "request_id": "REQ-00025",
+    "timestamp": "2026-09-14T21:39:00.557555",
+    "latency_ms": 1187,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1182
+  },
+  {
+    "request_id": "REQ-00026",
+    "timestamp": "2026-09-14T21:39:07.557555",
+    "latency_ms": 956,
+    "status": "success",
+    "tool": "none",
+    "tokens": 810
+  },
+  {
+    "request_id": "REQ-00027",
+    "timestamp": "2026-09-14T21:39:14.557555",
+    "latency_ms": 729,
+    "status": "success",
+    "tool": "none",
+    "tokens": 504
+  },
+  {
+    "request_id": "REQ-00028",
+    "timestamp": "2026-09-14T21:39:21.557555",
+    "latency_ms": 1128,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1070
+  },
+  {
+    "request_id": "REQ-00029",
+    "timestamp": "2026-09-14T21:39:28.557555",
+    "latency_ms": 1102,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 822
+  },
+  {
+    "request_id": "REQ-00030",
+    "timestamp": "2026-09-14T21:39:35.557555",
+    "latency_ms": 634,
+    "status": "success",
+    "tool": "none",
+    "tokens": 896
+  },
+  {
+    "request_id": "REQ-00031",
+    "timestamp": "2026-09-14T21:39:42.557555",
+    "latency_ms": 1124,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1015
+  },
+  {
+    "request_id": "REQ-00032",
+    "timestamp": "2026-09-14T21:39:49.557555",
+    "latency_ms": 948,
+    "status": "success",
+    "tool": "none",
+    "tokens": 717
+  },
+  {
+    "request_id": "REQ-00033",
+    "timestamp": "2026-09-14T21:39:56.557555",
+    "latency_ms": 960,
+    "status": "success",
+    "tool": "none",
+    "tokens": 1020
+  },
+  {
+    "request_id": "REQ-00034",
+    "timestamp": "2026-09-14T21:40:03.557555",
+    "latency_ms": 616,
+    "status": "success",
+    "tool": "none",
+    "tokens": 720
+  },
+  {
+    "request_id": "REQ-00035",
+    "timestamp": "2026-09-14T21:40:10.557555",
+    "latency_ms": 1109,
+    "status": "success",
+    "tool": "none",
+    "tokens": 891
+  },
+  {
+    "request_id": "REQ-00036",
+    "timestamp": "2026-09-14T21:40:17.557555",
+    "latency_ms": 1019,
+    "status": "success",
+    "tool": "none",
+    "tokens": 782
+  },
+  {
+    "request_id": "REQ-00037",
+    "timestamp": "2026-09-14T21:40:24.557555",
+    "latency_ms": 841,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1162
+  },
+  {
+    "request_id": "REQ-00038",
+    "timestamp": "2026-09-14T21:40:31.557555",
+    "latency_ms": 586,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 628
+  },
+  {
+    "request_id": "REQ-00039",
+    "timestamp": "2026-09-14T21:40:38.557555",
+    "latency_ms": 344,
+    "status": "success",
+    "tool": "none",
+    "tokens": 813
+  },
+  {
+    "request_id": "REQ-00040",
+    "timestamp": "2026-09-14T21:40:45.557555",
+    "latency_ms": 1077,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 662
+  },
+  {
+    "request_id": "REQ-00041",
+    "timestamp": "2026-09-14T21:40:52.557555",
+    "latency_ms": 374,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 419
+  },
+  {
+    "request_id": "REQ-00042",
+    "timestamp": "2026-09-14T21:40:59.557555",
+    "latency_ms": 525,
+    "status": "success",
+    "tool": "none",
+    "tokens": 631
+  },
+  {
+    "request_id": "REQ-00043",
+    "timestamp": "2026-09-14T21:41:06.557555",
+    "latency_ms": 633,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 948
+  },
+  {
+    "request_id": "REQ-00044",
+    "timestamp": "2026-09-14T21:41:13.557555",
+    "latency_ms": 337,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 550
+  },
+  {
+    "request_id": "REQ-00045",
+    "timestamp": "2026-09-14T21:41:20.557555",
+    "latency_ms": 819,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 551
+  },
+  {
+    "request_id": "REQ-00046",
+    "timestamp": "2026-09-14T21:41:27.557555",
+    "latency_ms": 707,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 452
+  },
+  {
+    "request_id": "REQ-00047",
+    "timestamp": "2026-09-14T21:41:34.557555",
+    "latency_ms": 889,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 865
+  },
+  {
+    "request_id": "REQ-00048",
+    "timestamp": "2026-09-14T21:41:41.557555",
+    "latency_ms": 1037,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 873
+  },
+  {
+    "request_id": "REQ-00049",
+    "timestamp": "2026-09-14T21:41:48.557555",
+    "latency_ms": 433,
+    "status": "success",
+    "tool": "none",
+    "tokens": 843
+  },
+  {
+    "request_id": "REQ-00050",
+    "timestamp": "2026-09-14T21:41:55.557555",
+    "latency_ms": 486,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 571
+  },
+  {
+    "request_id": "REQ-00051",
+    "timestamp": "2026-09-14T21:42:02.557555",
+    "latency_ms": 623,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 864
+  },
+  {
+    "request_id": "REQ-00052",
+    "timestamp": "2026-09-14T21:42:09.557555",
+    "latency_ms": 721,
+    "status": "success",
+    "tool": "none",
+    "tokens": 925
+  },
+  {
+    "request_id": "REQ-00053",
+    "timestamp": "2026-09-14T21:42:16.557555",
+    "latency_ms": 940,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 786
+  },
+  {
+    "request_id": "REQ-00054",
+    "timestamp": "2026-09-14T21:42:23.557555",
+    "latency_ms": 418,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1081
+  },
+  {
+    "request_id": "REQ-00055",
+    "timestamp": "2026-09-14T21:42:30.557555",
+    "latency_ms": 719,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 463
+  },
+  {
+    "request_id": "REQ-00056",
+    "timestamp": "2026-09-14T21:42:37.557555",
+    "latency_ms": 348,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 992
+  },
+  {
+    "request_id": "REQ-00057",
+    "timestamp": "2026-09-14T21:42:44.557555",
+    "latency_ms": 762,
+    "status": "success",
+    "tool": "none",
+    "tokens": 792
+  },
+  {
+    "request_id": "REQ-00058",
+    "timestamp": "2026-09-14T21:42:51.557555",
+    "latency_ms": 981,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 608
+  },
+  {
+    "request_id": "REQ-00059",
+    "timestamp": "2026-09-14T21:42:58.557555",
+    "latency_ms": 1143,
+    "status": "success",
+    "tool": "none",
+    "tokens": 313
+  },
+  {
+    "request_id": "REQ-00060",
+    "timestamp": "2026-09-14T21:43:05.557555",
+    "latency_ms": 920,
+    "status": "success",
+    "tool": "none",
+    "tokens": 810
+  },
+  {
+    "request_id": "REQ-00061",
+    "timestamp": "2026-09-14T21:43:12.557555",
+    "latency_ms": 319,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 554
+  },
+  {
+    "request_id": "REQ-00062",
+    "timestamp": "2026-09-14T21:43:19.557555",
+    "latency_ms": 1012,
+    "status": "success",
+    "tool": "none",
+    "tokens": 834
+  },
+  {
+    "request_id": "REQ-00063",
+    "timestamp": "2026-09-14T21:43:26.557555",
+    "latency_ms": 1159,
+    "status": "success",
+    "tool": "none",
+    "tokens": 609
+  },
+  {
+    "request_id": "REQ-00064",
+    "timestamp": "2026-09-14T21:43:33.557555",
+    "latency_ms": 530,
+    "status": "success",
+    "tool": "none",
+    "tokens": 1183
+  },
+  {
+    "request_id": "REQ-00065",
+    "timestamp": "2026-09-14T21:43:40.557555",
+    "latency_ms": 541,
+    "status": "success",
+    "tool": "none",
+    "tokens": 631
+  },
+  {
+    "request_id": "REQ-00066",
+    "timestamp": "2026-09-14T21:43:47.557555",
+    "latency_ms": 958,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 972
+  },
+  {
+    "request_id": "REQ-00067",
+    "timestamp": "2026-09-14T21:43:54.557555",
+    "latency_ms": 578,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 869
+  },
+  {
+    "request_id": "REQ-00068",
+    "timestamp": "2026-09-14T21:44:01.557555",
+    "latency_ms": 846,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1130
+  },
+  {
+    "request_id": "REQ-00069",
+    "timestamp": "2026-09-14T21:44:08.557555",
+    "latency_ms": 529,
+    "status": "success",
+    "tool": "none",
+    "tokens": 1046
+  },
+  {
+    "request_id": "REQ-00070",
+    "timestamp": "2026-09-14T21:44:15.557555",
+    "latency_ms": 963,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 977
+  },
+  {
+    "request_id": "REQ-00071",
+    "timestamp": "2026-09-14T21:44:22.557555",
+    "latency_ms": 664,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 359
+  },
+  {
+    "request_id": "REQ-00072",
+    "timestamp": "2026-09-14T21:44:29.557555",
+    "latency_ms": 978,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 680
+  },
+  {
+    "request_id": "REQ-00073",
+    "timestamp": "2026-09-14T21:44:36.557555",
+    "latency_ms": 423,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1071
+  },
+  {
+    "request_id": "REQ-00074",
+    "timestamp": "2026-09-14T21:44:43.557555",
+    "latency_ms": 1200,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 545
+  },
+  {
+    "request_id": "REQ-00075",
+    "timestamp": "2026-09-14T21:44:50.557555",
+    "latency_ms": 542,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 635
+  },
+  {
+    "request_id": "REQ-00076",
+    "timestamp": "2026-09-14T21:44:57.557555",
+    "latency_ms": 787,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 669
+  },
+  {
+    "request_id": "REQ-00077",
+    "timestamp": "2026-09-14T21:45:04.557555",
+    "latency_ms": 551,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 579
+  },
+  {
+    "request_id": "REQ-00078",
+    "timestamp": "2026-09-14T21:45:11.557555",
+    "latency_ms": 1088,
+    "status": "success",
+    "tool": "none",
+    "tokens": 972
+  },
+  {
+    "request_id": "REQ-00079",
+    "timestamp": "2026-09-14T21:45:18.557555",
+    "latency_ms": 458,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 951
+  },
+  {
+    "request_id": "REQ-00080",
+    "timestamp": "2026-09-14T21:45:25.557555",
+    "latency_ms": 1158,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 728
+  },
+  {
+    "request_id": "REQ-00081",
+    "timestamp": "2026-09-14T21:45:32.557555",
+    "latency_ms": 473,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1083
+  },
+  {
+    "request_id": "REQ-00082",
+    "timestamp": "2026-09-14T21:45:39.557555",
+    "latency_ms": 961,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1071
+  },
+  {
+    "request_id": "REQ-00083",
+    "timestamp": "2026-09-14T21:45:46.557555",
+    "latency_ms": 494,
+    "status": "success",
+    "tool": "none",
+    "tokens": 349
+  },
+  {
+    "request_id": "REQ-00084",
+    "timestamp": "2026-09-14T21:45:53.557555",
+    "latency_ms": 1138,
+    "status": "success",
+    "tool": "none",
+    "tokens": 797
+  },
+  {
+    "request_id": "REQ-00085",
+    "timestamp": "2026-09-14T21:46:00.557555",
+    "latency_ms": 1000,
+    "status": "success",
+    "tool": "none",
+    "tokens": 943
+  },
+  {
+    "request_id": "REQ-00086",
+    "timestamp": "2026-09-14T21:46:07.557555",
+    "latency_ms": 1013,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 649
+  },
+  {
+    "request_id": "REQ-00087",
+    "timestamp": "2026-09-14T21:46:14.557555",
+    "latency_ms": 675,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 596
+  },
+  {
+    "request_id": "REQ-00088",
+    "timestamp": "2026-09-14T21:46:21.557555",
+    "latency_ms": 1016,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 345
+  },
+  {
+    "request_id": "REQ-00089",
+    "timestamp": "2026-09-14T21:46:28.557555",
+    "latency_ms": 351,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1052
+  },
+  {
+    "request_id": "REQ-00090",
+    "timestamp": "2026-09-14T21:46:35.557555",
+    "latency_ms": 609,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 859
+  },
+  {
+    "request_id": "REQ-00091",
+    "timestamp": "2026-09-14T21:46:42.557555",
+    "latency_ms": 626,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 579
+  },
+  {
+    "request_id": "REQ-00092",
+    "timestamp": "2026-09-14T21:46:49.557555",
+    "latency_ms": 436,
+    "status": "success",
+    "tool": "none",
+    "tokens": 602
+  },
+  {
+    "request_id": "REQ-00093",
+    "timestamp": "2026-09-14T21:46:56.557555",
+    "latency_ms": 688,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 914
+  },
+  {
+    "request_id": "REQ-00094",
+    "timestamp": "2026-09-14T21:47:03.557555",
+    "latency_ms": 370,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1062
+  },
+  {
+    "request_id": "REQ-00095",
+    "timestamp": "2026-09-14T21:47:10.557555",
+    "latency_ms": 846,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 910
+  },
+  {
+    "request_id": "REQ-00096",
+    "timestamp": "2026-09-14T21:47:17.557555",
+    "latency_ms": 794,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 795
+  },
+  {
+    "request_id": "REQ-00097",
+    "timestamp": "2026-09-14T21:47:24.557555",
+    "latency_ms": 678,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 765
+  },
+  {
+    "request_id": "REQ-00098",
+    "timestamp": "2026-09-14T21:47:31.557555",
+    "latency_ms": 779,
+    "status": "success",
+    "tool": "none",
+    "tokens": 377
+  },
+  {
+    "request_id": "REQ-00099",
+    "timestamp": "2026-09-14T21:47:38.557555",
+    "latency_ms": 408,
+    "status": "success",
+    "tool": "none",
+    "tokens": 896
+  },
+  {
+    "request_id": "REQ-00100",
+    "timestamp": "2026-09-14T21:47:45.557555",
+    "latency_ms": 1088,
+    "status": "success",
+    "tool": "none",
+    "tokens": 541
+  },
+  {
+    "request_id": "REQ-00101",
+    "timestamp": "2026-09-14T21:47:52.557555",
+    "latency_ms": 818,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1078
+  },
+  {
+    "request_id": "REQ-00102",
+    "timestamp": "2026-09-14T21:47:59.557555",
+    "latency_ms": 503,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1173
+  },
+  {
+    "request_id": "REQ-00103",
+    "timestamp": "2026-09-14T21:48:06.557555",
+    "latency_ms": 1055,
+    "status": "success",
+    "tool": "none",
+    "tokens": 943
+  },
+  {
+    "request_id": "REQ-00104",
+    "timestamp": "2026-09-14T21:48:13.557555",
+    "latency_ms": 1184,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1028
+  },
+  {
+    "request_id": "REQ-00105",
+    "timestamp": "2026-09-14T21:48:20.557555",
+    "latency_ms": 312,
+    "status": "success",
+    "tool": "none",
+    "tokens": 828
+  },
+  {
+    "request_id": "REQ-00106",
+    "timestamp": "2026-09-14T21:48:27.557555",
+    "latency_ms": 1123,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 546
+  },
+  {
+    "request_id": "REQ-00107",
+    "timestamp": "2026-09-14T21:48:34.557555",
+    "latency_ms": 1043,
+    "status": "success",
+    "tool": "none",
+    "tokens": 755
+  },
+  {
+    "request_id": "REQ-00108",
+    "timestamp": "2026-09-14T21:48:41.557555",
+    "latency_ms": 1183,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1151
+  },
+  {
+    "request_id": "REQ-00109",
+    "timestamp": "2026-09-14T21:48:48.557555",
+    "latency_ms": 1129,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1159
+  },
+  {
+    "request_id": "REQ-00110",
+    "timestamp": "2026-09-14T21:48:55.557555",
+    "latency_ms": 448,
+    "status": "success",
+    "tool": "none",
+    "tokens": 352
+  },
+  {
+    "request_id": "REQ-00111",
+    "timestamp": "2026-09-14T21:49:02.557555",
+    "latency_ms": 928,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 306
+  },
+  {
+    "request_id": "REQ-00112",
+    "timestamp": "2026-09-14T21:49:09.557555",
+    "latency_ms": 1147,
+    "status": "success",
+    "tool": "none",
+    "tokens": 693
+  },
+  {
+    "request_id": "REQ-00113",
+    "timestamp": "2026-09-14T21:49:16.557555",
+    "latency_ms": 1187,
+    "status": "success",
+    "tool": "none",
+    "tokens": 714
+  },
+  {
+    "request_id": "REQ-00114",
+    "timestamp": "2026-09-14T21:49:23.557555",
+    "latency_ms": 586,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 587
+  },
+  {
+    "request_id": "REQ-00115",
+    "timestamp": "2026-09-14T21:49:30.557555",
+    "latency_ms": 1117,
+    "status": "success",
+    "tool": "none",
+    "tokens": 564
+  },
+  {
+    "request_id": "REQ-00116",
+    "timestamp": "2026-09-14T21:49:37.557555",
+    "latency_ms": 1021,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 702
+  },
+  {
+    "request_id": "REQ-00117",
+    "timestamp": "2026-09-14T21:49:44.557555",
+    "latency_ms": 469,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1018
+  },
+  {
+    "request_id": "REQ-00118",
+    "timestamp": "2026-09-14T21:49:51.557555",
+    "latency_ms": 991,
+    "status": "success",
+    "tool": "none",
+    "tokens": 445
+  },
+  {
+    "request_id": "REQ-00119",
+    "timestamp": "2026-09-14T21:49:58.557555",
+    "latency_ms": 1053,
+    "status": "success",
+    "tool": "none",
+    "tokens": 947
+  },
+  {
+    "request_id": "REQ-00120",
+    "timestamp": "2026-09-14T21:50:05.557555",
+    "latency_ms": 741,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 384
+  },
+  {
+    "request_id": "REQ-00121",
+    "timestamp": "2026-09-14T21:50:12.557555",
+    "latency_ms": 758,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 765
+  },
+  {
+    "request_id": "REQ-00122",
+    "timestamp": "2026-09-14T21:50:19.557555",
+    "latency_ms": 512,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1121
+  },
+  {
+    "request_id": "REQ-00123",
+    "timestamp": "2026-09-14T21:50:26.557555",
+    "latency_ms": 305,
+    "status": "success",
+    "tool": "none",
+    "tokens": 642
+  },
+  {
+    "request_id": "REQ-00124",
+    "timestamp": "2026-09-14T21:50:33.557555",
+    "latency_ms": 657,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 655
+  },
+  {
+    "request_id": "REQ-00125",
+    "timestamp": "2026-09-14T21:50:40.557555",
+    "latency_ms": 407,
+    "status": "success",
+    "tool": "none",
+    "tokens": 481
+  },
+  {
+    "request_id": "REQ-00126",
+    "timestamp": "2026-09-14T21:50:47.557555",
+    "latency_ms": 388,
+    "status": "success",
+    "tool": "none",
+    "tokens": 791
+  },
+  {
+    "request_id": "REQ-00127",
+    "timestamp": "2026-09-14T21:50:54.557555",
+    "latency_ms": 548,
+    "status": "success",
+    "tool": "none",
+    "tokens": 374
+  },
+  {
+    "request_id": "REQ-00128",
+    "timestamp": "2026-09-14T21:51:01.557555",
+    "latency_ms": 1079,
+    "status": "success",
+    "tool": "none",
+    "tokens": 378
+  },
+  {
+    "request_id": "REQ-00129",
+    "timestamp": "2026-09-14T21:51:08.557555",
+    "latency_ms": 329,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1124
+  },
+  {
+    "request_id": "REQ-00130",
+    "timestamp": "2026-09-14T21:51:15.557555",
+    "latency_ms": 1057,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 391
+  },
+  {
+    "request_id": "REQ-00131",
+    "timestamp": "2026-09-14T21:51:22.557555",
+    "latency_ms": 633,
+    "status": "success",
+    "tool": "none",
+    "tokens": 404
+  },
+  {
+    "request_id": "REQ-00132",
+    "timestamp": "2026-09-14T21:51:29.557555",
+    "latency_ms": 860,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 717
+  },
+  {
+    "request_id": "REQ-00133",
+    "timestamp": "2026-09-14T21:51:36.557555",
+    "latency_ms": 1075,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1052
+  },
+  {
+    "request_id": "REQ-00134",
+    "timestamp": "2026-09-14T21:51:43.557555",
+    "latency_ms": 833,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 361
+  },
+  {
+    "request_id": "REQ-00135",
+    "timestamp": "2026-09-14T21:51:50.557555",
+    "latency_ms": 856,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 681
+  },
+  {
+    "request_id": "REQ-00136",
+    "timestamp": "2026-09-14T21:51:57.557555",
+    "latency_ms": 856,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 407
+  },
+  {
+    "request_id": "REQ-00137",
+    "timestamp": "2026-09-14T21:52:04.557555",
+    "latency_ms": 535,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 715
+  },
+  {
+    "request_id": "REQ-00138",
+    "timestamp": "2026-09-14T21:52:11.557555",
+    "latency_ms": 593,
+    "status": "success",
+    "tool": "none",
+    "tokens": 319
+  },
+  {
+    "request_id": "REQ-00139",
+    "timestamp": "2026-09-14T21:52:18.557555",
+    "latency_ms": 498,
+    "status": "success",
+    "tool": "none",
+    "tokens": 808
+  },
+  {
+    "request_id": "REQ-00140",
+    "timestamp": "2026-09-14T21:52:25.557555",
+    "latency_ms": 345,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 534
+  },
+  {
+    "request_id": "REQ-00141",
+    "timestamp": "2026-09-14T21:52:32.557555",
+    "latency_ms": 1066,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 394
+  },
+  {
+    "request_id": "REQ-00142",
+    "timestamp": "2026-09-14T21:52:39.557555",
+    "latency_ms": 710,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 614
+  },
+  {
+    "request_id": "REQ-00143",
+    "timestamp": "2026-09-14T21:52:46.557555",
+    "latency_ms": 988,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 789
+  },
+  {
+    "request_id": "REQ-00144",
+    "timestamp": "2026-09-14T21:52:53.557555",
+    "latency_ms": 733,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1018
+  },
+  {
+    "request_id": "REQ-00145",
+    "timestamp": "2026-09-14T21:53:00.557555",
+    "latency_ms": 493,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 893
+  },
+  {
+    "request_id": "REQ-00146",
+    "timestamp": "2026-09-14T21:53:07.557555",
+    "latency_ms": 514,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1088
+  },
+  {
+    "request_id": "REQ-00147",
+    "timestamp": "2026-09-14T21:53:14.557555",
+    "latency_ms": 958,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 936
+  },
+  {
+    "request_id": "REQ-00148",
+    "timestamp": "2026-09-14T21:53:21.557555",
+    "latency_ms": 500,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 525
+  },
+  {
+    "request_id": "REQ-00149",
+    "timestamp": "2026-09-14T21:53:28.557555",
+    "latency_ms": 1109,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 758
+  },
+  {
+    "request_id": "REQ-00150",
+    "timestamp": "2026-09-14T21:53:35.557555",
+    "latency_ms": 313,
+    "status": "success",
+    "tool": "none",
+    "tokens": 644
+  },
+  {
+    "request_id": "REQ-00151",
+    "timestamp": "2026-09-14T21:53:42.557555",
+    "latency_ms": 796,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 793
+  },
+  {
+    "request_id": "REQ-00152",
+    "timestamp": "2026-09-14T21:53:49.557555",
+    "latency_ms": 1092,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 718
+  },
+  {
+    "request_id": "REQ-00153",
+    "timestamp": "2026-09-14T21:53:56.557555",
+    "latency_ms": 571,
+    "status": "success",
+    "tool": "none",
+    "tokens": 764
+  },
+  {
+    "request_id": "REQ-00154",
+    "timestamp": "2026-09-14T21:54:03.557555",
+    "latency_ms": 1028,
+    "status": "success",
+    "tool": "none",
+    "tokens": 967
+  },
+  {
+    "request_id": "REQ-00155",
+    "timestamp": "2026-09-14T21:54:10.557555",
+    "latency_ms": 456,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 633
+  },
+  {
+    "request_id": "REQ-00156",
+    "timestamp": "2026-09-14T21:54:17.557555",
+    "latency_ms": 824,
+    "status": "success",
+    "tool": "none",
+    "tokens": 411
+  },
+  {
+    "request_id": "REQ-00157",
+    "timestamp": "2026-09-14T21:54:24.557555",
+    "latency_ms": 609,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 502
+  },
+  {
+    "request_id": "REQ-00158",
+    "timestamp": "2026-09-14T21:54:31.557555",
+    "latency_ms": 548,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 878
+  },
+  {
+    "request_id": "REQ-00159",
+    "timestamp": "2026-09-14T21:54:38.557555",
+    "latency_ms": 947,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 736
+  },
+  {
+    "request_id": "REQ-00160",
+    "timestamp": "2026-09-14T21:54:45.557555",
+    "latency_ms": 571,
+    "status": "success",
+    "tool": "none",
+    "tokens": 734
+  },
+  {
+    "request_id": "REQ-00161",
+    "timestamp": "2026-09-14T21:54:52.557555",
+    "latency_ms": 857,
+    "status": "success",
+    "tool": "none",
+    "tokens": 530
+  },
+  {
+    "request_id": "REQ-00162",
+    "timestamp": "2026-09-14T21:54:59.557555",
+    "latency_ms": 844,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1017
+  },
+  {
+    "request_id": "REQ-00163",
+    "timestamp": "2026-09-14T21:55:06.557555",
+    "latency_ms": 950,
+    "status": "success",
+    "tool": "none",
+    "tokens": 733
+  },
+  {
+    "request_id": "REQ-00164",
+    "timestamp": "2026-09-14T21:55:13.557555",
+    "latency_ms": 1013,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 572
+  },
+  {
+    "request_id": "REQ-00165",
+    "timestamp": "2026-09-14T21:55:20.557555",
+    "latency_ms": 832,
+    "status": "success",
+    "tool": "none",
+    "tokens": 881
+  },
+  {
+    "request_id": "REQ-00166",
+    "timestamp": "2026-09-14T21:55:27.557555",
+    "latency_ms": 889,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 341
+  },
+  {
+    "request_id": "REQ-00167",
+    "timestamp": "2026-09-14T21:55:34.557555",
+    "latency_ms": 570,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 766
+  },
+  {
+    "request_id": "REQ-00168",
+    "timestamp": "2026-09-14T21:55:41.557555",
+    "latency_ms": 961,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 634
+  },
+  {
+    "request_id": "REQ-00169",
+    "timestamp": "2026-09-14T21:55:48.557555",
+    "latency_ms": 890,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 565
+  },
+  {
+    "request_id": "REQ-00170",
+    "timestamp": "2026-09-14T21:55:55.557555",
+    "latency_ms": 935,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1138
+  },
+  {
+    "request_id": "REQ-00171",
+    "timestamp": "2026-09-14T21:56:02.557555",
+    "latency_ms": 1098,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 529
+  },
+  {
+    "request_id": "REQ-00172",
+    "timestamp": "2026-09-14T21:56:09.557555",
+    "latency_ms": 1003,
+    "status": "success",
+    "tool": "none",
+    "tokens": 1159
+  },
+  {
+    "request_id": "REQ-00173",
+    "timestamp": "2026-09-14T21:56:16.557555",
+    "latency_ms": 475,
+    "status": "success",
+    "tool": "none",
+    "tokens": 871
+  },
+  {
+    "request_id": "REQ-00174",
+    "timestamp": "2026-09-14T21:56:23.557555",
+    "latency_ms": 361,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 892
+  },
+  {
+    "request_id": "REQ-00175",
+    "timestamp": "2026-09-14T21:56:30.557555",
+    "latency_ms": 411,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 815
+  },
+  {
+    "request_id": "REQ-00176",
+    "timestamp": "2026-09-14T21:56:37.557555",
+    "latency_ms": 391,
+    "status": "success",
+    "tool": "none",
+    "tokens": 773
+  },
+  {
+    "request_id": "REQ-00177",
+    "timestamp": "2026-09-14T21:56:44.557555",
+    "latency_ms": 1060,
+    "status": "success",
+    "tool": "none",
+    "tokens": 1153
+  },
+  {
+    "request_id": "REQ-00178",
+    "timestamp": "2026-09-14T21:56:51.557555",
+    "latency_ms": 953,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 973
+  },
+  {
+    "request_id": "REQ-00179",
+    "timestamp": "2026-09-14T21:56:58.557555",
+    "latency_ms": 324,
+    "status": "success",
+    "tool": "none",
+    "tokens": 500
+  },
+  {
+    "request_id": "REQ-00180",
+    "timestamp": "2026-09-14T21:57:05.557555",
+    "latency_ms": 1108,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1065
+  },
+  {
+    "request_id": "REQ-00181",
+    "timestamp": "2026-09-14T21:57:12.557555",
+    "latency_ms": 1106,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 603
+  },
+  {
+    "request_id": "REQ-00182",
+    "timestamp": "2026-09-14T21:57:19.557555",
+    "latency_ms": 1029,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 564
+  },
+  {
+    "request_id": "REQ-00183",
+    "timestamp": "2026-09-14T21:57:26.557555",
+    "latency_ms": 930,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 332
+  },
+  {
+    "request_id": "REQ-00184",
+    "timestamp": "2026-09-14T21:57:33.557555",
+    "latency_ms": 919,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 880
+  },
+  {
+    "request_id": "REQ-00185",
+    "timestamp": "2026-09-14T21:57:40.557555",
+    "latency_ms": 1160,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1067
+  },
+  {
+    "request_id": "REQ-00186",
+    "timestamp": "2026-09-14T21:57:47.557555",
+    "latency_ms": 827,
+    "status": "success",
+    "tool": "none",
+    "tokens": 1152
+  },
+  {
+    "request_id": "REQ-00187",
+    "timestamp": "2026-09-14T21:57:54.557555",
+    "latency_ms": 535,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1039
+  },
+  {
+    "request_id": "REQ-00188",
+    "timestamp": "2026-09-14T21:58:01.557555",
+    "latency_ms": 385,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 507
+  },
+  {
+    "request_id": "REQ-00189",
+    "timestamp": "2026-09-14T21:58:08.557555",
+    "latency_ms": 1078,
+    "status": "success",
+    "tool": "none",
+    "tokens": 614
+  },
+  {
+    "request_id": "REQ-00190",
+    "timestamp": "2026-09-14T21:58:15.557555",
+    "latency_ms": 546,
+    "status": "success",
+    "tool": "none",
+    "tokens": 721
+  },
+  {
+    "request_id": "REQ-00191",
+    "timestamp": "2026-09-14T21:58:22.557555",
+    "latency_ms": 776,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1095
+  },
+  {
+    "request_id": "REQ-00192",
+    "timestamp": "2026-09-14T21:58:29.557555",
+    "latency_ms": 863,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 708
+  },
+  {
+    "request_id": "REQ-00193",
+    "timestamp": "2026-09-14T21:58:36.557555",
+    "latency_ms": 1166,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 890
+  },
+  {
+    "request_id": "REQ-00194",
+    "timestamp": "2026-09-14T21:58:43.557555",
+    "latency_ms": 658,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 844
+  },
+  {
+    "request_id": "REQ-00195",
+    "timestamp": "2026-09-14T21:58:50.557555",
+    "latency_ms": 1110,
+    "status": "success",
+    "tool": "none",
+    "tokens": 889
+  },
+  {
+    "request_id": "REQ-00196",
+    "timestamp": "2026-09-14T21:58:57.557555",
+    "latency_ms": 689,
+    "status": "success",
+    "tool": "none",
+    "tokens": 851
+  },
+  {
+    "request_id": "REQ-00197",
+    "timestamp": "2026-09-14T21:59:04.557555",
+    "latency_ms": 957,
+    "status": "success",
+    "tool": "none",
+    "tokens": 805
+  },
+  {
+    "request_id": "REQ-00198",
+    "timestamp": "2026-09-14T21:59:11.557555",
+    "latency_ms": 562,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1072
+  },
+  {
+    "request_id": "REQ-00199",
+    "timestamp": "2026-09-14T21:59:18.557555",
+    "latency_ms": 1091,
+    "status": "success",
+    "tool": "none",
+    "tokens": 306
+  },
+  {
+    "request_id": "REQ-00200",
+    "timestamp": "2026-09-14T21:59:25.557555",
+    "latency_ms": 1121,
+    "status": "success",
+    "tool": "none",
+    "tokens": 514
+  },
+  {
+    "request_id": "REQ-00201",
+    "timestamp": "2026-09-14T21:59:32.557555",
+    "latency_ms": 686,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 926
+  },
+  {
+    "request_id": "REQ-00202",
+    "timestamp": "2026-09-14T21:59:39.557555",
+    "latency_ms": 801,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 574
+  },
+  {
+    "request_id": "REQ-00203",
+    "timestamp": "2026-09-14T21:59:46.557555",
+    "latency_ms": 952,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 331
+  },
+  {
+    "request_id": "REQ-00204",
+    "timestamp": "2026-09-14T21:59:53.557555",
+    "latency_ms": 627,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1036
+  },
+  {
+    "request_id": "REQ-00205",
+    "timestamp": "2026-09-14T22:00:00.557555",
+    "latency_ms": 732,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1046
+  },
+  {
+    "request_id": "REQ-00206",
+    "timestamp": "2026-09-14T22:00:07.557555",
+    "latency_ms": 445,
+    "status": "success",
+    "tool": "none",
+    "tokens": 801
+  },
+  {
+    "request_id": "REQ-00207",
+    "timestamp": "2026-09-14T22:00:14.557555",
+    "latency_ms": 1120,
+    "status": "success",
+    "tool": "none",
+    "tokens": 1011
+  },
+  {
+    "request_id": "REQ-00208",
+    "timestamp": "2026-09-14T22:00:21.557555",
+    "latency_ms": 776,
+    "status": "success",
+    "tool": "none",
+    "tokens": 524
+  },
+  {
+    "request_id": "REQ-00209",
+    "timestamp": "2026-09-14T22:00:28.557555",
+    "latency_ms": 519,
+    "status": "success",
+    "tool": "none",
+    "tokens": 1187
+  },
+  {
+    "request_id": "REQ-00210",
+    "timestamp": "2026-09-14T22:00:35.557555",
+    "latency_ms": 503,
+    "status": "success",
+    "tool": "none",
+    "tokens": 1140
+  },
+  {
+    "request_id": "REQ-00211",
+    "timestamp": "2026-09-14T22:00:42.557555",
+    "latency_ms": 442,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 858
+  },
+  {
+    "request_id": "REQ-00212",
+    "timestamp": "2026-09-14T22:00:49.557555",
+    "latency_ms": 335,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 805
+  },
+  {
+    "request_id": "REQ-00213",
+    "timestamp": "2026-09-14T22:00:56.557555",
+    "latency_ms": 646,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 573
+  },
+  {
+    "request_id": "REQ-00214",
+    "timestamp": "2026-09-14T22:01:03.557555",
+    "latency_ms": 381,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 620
+  },
+  {
+    "request_id": "REQ-00215",
+    "timestamp": "2026-09-14T22:01:10.557555",
+    "latency_ms": 564,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1099
+  },
+  {
+    "request_id": "REQ-00216",
+    "timestamp": "2026-09-14T22:01:17.557555",
+    "latency_ms": 514,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 679
+  },
+  {
+    "request_id": "REQ-00217",
+    "timestamp": "2026-09-14T22:01:24.557555",
+    "latency_ms": 673,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1024
+  },
+  {
+    "request_id": "REQ-00218",
+    "timestamp": "2026-09-14T22:01:31.557555",
+    "latency_ms": 835,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 363
+  },
+  {
+    "request_id": "REQ-00219",
+    "timestamp": "2026-09-14T22:01:38.557555",
+    "latency_ms": 653,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 622
+  },
+  {
+    "request_id": "REQ-00220",
+    "timestamp": "2026-09-14T22:01:45.557555",
+    "latency_ms": 1134,
+    "status": "success",
+    "tool": "none",
+    "tokens": 663
+  },
+  {
+    "request_id": "REQ-00221",
+    "timestamp": "2026-09-14T22:01:52.557555",
+    "latency_ms": 1046,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 300
+  },
+  {
+    "request_id": "REQ-00222",
+    "timestamp": "2026-09-14T22:01:59.557555",
+    "latency_ms": 829,
+    "status": "success",
+    "tool": "none",
+    "tokens": 380
+  },
+  {
+    "request_id": "REQ-00223",
+    "timestamp": "2026-09-14T22:02:06.557555",
+    "latency_ms": 932,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 830
+  },
+  {
+    "request_id": "REQ-00224",
+    "timestamp": "2026-09-14T22:02:13.557555",
+    "latency_ms": 661,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 780
+  },
+  {
+    "request_id": "REQ-00225",
+    "timestamp": "2026-09-14T22:02:20.557555",
+    "latency_ms": 404,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 342
+  },
+  {
+    "request_id": "REQ-00226",
+    "timestamp": "2026-09-14T22:02:27.557555",
+    "latency_ms": 759,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 457
+  },
+  {
+    "request_id": "REQ-00227",
+    "timestamp": "2026-09-14T22:02:34.557555",
+    "latency_ms": 690,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1095
+  },
+  {
+    "request_id": "REQ-00228",
+    "timestamp": "2026-09-14T22:02:41.557555",
+    "latency_ms": 322,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1020
+  },
+  {
+    "request_id": "REQ-00229",
+    "timestamp": "2026-09-14T22:02:48.557555",
+    "latency_ms": 884,
+    "status": "success",
+    "tool": "none",
+    "tokens": 486
+  },
+  {
+    "request_id": "REQ-00230",
+    "timestamp": "2026-09-14T22:02:55.557555",
+    "latency_ms": 892,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1120
+  },
+  {
+    "request_id": "REQ-00231",
+    "timestamp": "2026-09-14T22:03:02.557555",
+    "latency_ms": 545,
+    "status": "success",
+    "tool": "none",
+    "tokens": 490
+  },
+  {
+    "request_id": "REQ-00232",
+    "timestamp": "2026-09-14T22:03:09.557555",
+    "latency_ms": 1122,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 874
+  },
+  {
+    "request_id": "REQ-00233",
+    "timestamp": "2026-09-14T22:03:16.557555",
+    "latency_ms": 812,
+    "status": "success",
+    "tool": "none",
+    "tokens": 401
+  },
+  {
+    "request_id": "REQ-00234",
+    "timestamp": "2026-09-14T22:03:23.557555",
+    "latency_ms": 596,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 700
+  },
+  {
+    "request_id": "REQ-00235",
+    "timestamp": "2026-09-14T22:03:30.557555",
+    "latency_ms": 436,
+    "status": "success",
+    "tool": "none",
+    "tokens": 1087
+  },
+  {
+    "request_id": "REQ-00236",
+    "timestamp": "2026-09-14T22:03:37.557555",
+    "latency_ms": 1187,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1106
+  },
+  {
+    "request_id": "REQ-00237",
+    "timestamp": "2026-09-14T22:03:44.557555",
+    "latency_ms": 1069,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 665
+  },
+  {
+    "request_id": "REQ-00238",
+    "timestamp": "2026-09-14T22:03:51.557555",
+    "latency_ms": 976,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 306
+  },
+  {
+    "request_id": "REQ-00239",
+    "timestamp": "2026-09-14T22:03:58.557555",
+    "latency_ms": 866,
+    "status": "success",
+    "tool": "none",
+    "tokens": 586
+  },
+  {
+    "request_id": "REQ-00240",
+    "timestamp": "2026-09-14T22:04:05.557555",
+    "latency_ms": 370,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 614
+  },
+  {
+    "request_id": "REQ-00241",
+    "timestamp": "2026-09-14T22:04:12.557555",
+    "latency_ms": 526,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 583
+  },
+  {
+    "request_id": "REQ-00242",
+    "timestamp": "2026-09-14T22:04:19.557555",
+    "latency_ms": 1080,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 391
+  },
+  {
+    "request_id": "REQ-00243",
+    "timestamp": "2026-09-14T22:04:26.557555",
+    "latency_ms": 1025,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 975
+  },
+  {
+    "request_id": "REQ-00244",
+    "timestamp": "2026-09-14T22:04:33.557555",
+    "latency_ms": 524,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1054
+  },
+  {
+    "request_id": "REQ-00245",
+    "timestamp": "2026-09-14T22:04:40.557555",
+    "latency_ms": 1120,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1144
+  },
+  {
+    "request_id": "REQ-00246",
+    "timestamp": "2026-09-14T22:04:47.557555",
+    "latency_ms": 1124,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 304
+  },
+  {
+    "request_id": "REQ-00247",
+    "timestamp": "2026-09-14T22:04:54.557555",
+    "latency_ms": 624,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 319
+  },
+  {
+    "request_id": "REQ-00248",
+    "timestamp": "2026-09-14T22:05:01.557555",
+    "latency_ms": 709,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1186
+  },
+  {
+    "request_id": "REQ-00249",
+    "timestamp": "2026-09-14T22:05:08.557555",
+    "latency_ms": 1191,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 767
+  },
+  {
+    "request_id": "REQ-00250",
+    "timestamp": "2026-09-14T22:05:15.557555",
+    "latency_ms": 922,
+    "status": "success",
+    "tool": "weather_api",
+    "tokens": 1043
+  },
+  {
+    "request_id": "REQ-00251",
+    "timestamp": "2026-09-14T22:05:22.557555",
+    "latency_ms": 4375,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 305
+  },
+  {
+    "request_id": "REQ-00252",
+    "timestamp": "2026-09-14T22:05:29.557555",
+    "latency_ms": 4384,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 971
+  },
+  {
+    "request_id": "REQ-00253",
+    "timestamp": "2026-09-14T22:05:36.557555",
+    "latency_ms": 5263,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 434
+  },
+  {
+    "request_id": "REQ-00254",
+    "timestamp": "2026-09-14T22:05:43.557555",
+    "latency_ms": 3714,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 509
+  },
+  {
+    "request_id": "REQ-00255",
+    "timestamp": "2026-09-14T22:05:50.557555",
+    "latency_ms": 6025,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 363
+  },
+  {
+    "request_id": "REQ-00256",
+    "timestamp": "2026-09-14T22:05:57.557555",
+    "latency_ms": 3671,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 772
+  },
+  {
+    "request_id": "REQ-00257",
+    "timestamp": "2026-09-14T22:06:04.557555",
+    "latency_ms": 5262,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1042
+  },
+  {
+    "request_id": "REQ-00258",
+    "timestamp": "2026-09-14T22:06:11.557555",
+    "latency_ms": 6509,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 392
+  },
+  {
+    "request_id": "REQ-00259",
+    "timestamp": "2026-09-14T22:06:18.557555",
+    "latency_ms": 4749,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 792
+  },
+  {
+    "request_id": "REQ-00260",
+    "timestamp": "2026-09-14T22:06:25.557555",
+    "latency_ms": 5618,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1115
+  },
+  {
+    "request_id": "REQ-00261",
+    "timestamp": "2026-09-14T22:06:32.557555",
+    "latency_ms": 3166,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 1065
+  },
+  {
+    "request_id": "REQ-00262",
+    "timestamp": "2026-09-14T22:06:39.557555",
+    "latency_ms": 5613,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 1182
+  },
+  {
+    "request_id": "REQ-00263",
+    "timestamp": "2026-09-14T22:06:46.557555",
+    "latency_ms": 4805,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 775
+  },
+  {
+    "request_id": "REQ-00264",
+    "timestamp": "2026-09-14T22:06:53.557555",
+    "latency_ms": 6246,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 604
+  },
+  {
+    "request_id": "REQ-00265",
+    "timestamp": "2026-09-14T22:07:00.557555",
+    "latency_ms": 3401,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 772
+  },
+  {
+    "request_id": "REQ-00266",
+    "timestamp": "2026-09-14T22:07:07.557555",
+    "latency_ms": 4255,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 560
+  },
+  {
+    "request_id": "REQ-00267",
+    "timestamp": "2026-09-14T22:07:14.557555",
+    "latency_ms": 6286,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 530
+  },
+  {
+    "request_id": "REQ-00268",
+    "timestamp": "2026-09-14T22:07:21.557555",
+    "latency_ms": 4962,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1093
+  },
+  {
+    "request_id": "REQ-00269",
+    "timestamp": "2026-09-14T22:07:28.557555",
+    "latency_ms": 5395,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 1112
+  },
+  {
+    "request_id": "REQ-00270",
+    "timestamp": "2026-09-14T22:07:35.557555",
+    "latency_ms": 3583,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 394
+  },
+  {
+    "request_id": "REQ-00271",
+    "timestamp": "2026-09-14T22:07:42.557555",
+    "latency_ms": 3757,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 954
+  },
+  {
+    "request_id": "REQ-00272",
+    "timestamp": "2026-09-14T22:07:49.557555",
+    "latency_ms": 6198,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 421
+  },
+  {
+    "request_id": "REQ-00273",
+    "timestamp": "2026-09-14T22:07:56.557555",
+    "latency_ms": 3432,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 871
+  },
+  {
+    "request_id": "REQ-00274",
+    "timestamp": "2026-09-14T22:08:03.557555",
+    "latency_ms": 5237,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 471
+  },
+  {
+    "request_id": "REQ-00275",
+    "timestamp": "2026-09-14T22:08:10.557555",
+    "latency_ms": 3930,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 374
+  },
+  {
+    "request_id": "REQ-00276",
+    "timestamp": "2026-09-14T22:08:17.557555",
+    "latency_ms": 6075,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 370
+  },
+  {
+    "request_id": "REQ-00277",
+    "timestamp": "2026-09-14T22:08:24.557555",
+    "latency_ms": 6762,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 958
+  },
+  {
+    "request_id": "REQ-00278",
+    "timestamp": "2026-09-14T22:08:31.557555",
+    "latency_ms": 5191,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 1160
+  },
+  {
+    "request_id": "REQ-00279",
+    "timestamp": "2026-09-14T22:08:38.557555",
+    "latency_ms": 6543,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 515
+  },
+  {
+    "request_id": "REQ-00280",
+    "timestamp": "2026-09-14T22:08:45.557555",
+    "latency_ms": 3236,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 475
+  },
+  {
+    "request_id": "REQ-00281",
+    "timestamp": "2026-09-14T22:08:52.557555",
+    "latency_ms": 3747,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 984
+  },
+  {
+    "request_id": "REQ-00282",
+    "timestamp": "2026-09-14T22:08:59.557555",
+    "latency_ms": 6566,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 340
+  },
+  {
+    "request_id": "REQ-00283",
+    "timestamp": "2026-09-14T22:09:06.557555",
+    "latency_ms": 4739,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 429
+  },
+  {
+    "request_id": "REQ-00284",
+    "timestamp": "2026-09-14T22:09:13.557555",
+    "latency_ms": 3155,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1132
+  },
+  {
+    "request_id": "REQ-00285",
+    "timestamp": "2026-09-14T22:09:20.557555",
+    "latency_ms": 5027,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 862
+  },
+  {
+    "request_id": "REQ-00286",
+    "timestamp": "2026-09-14T22:09:27.557555",
+    "latency_ms": 3067,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 521
+  },
+  {
+    "request_id": "REQ-00287",
+    "timestamp": "2026-09-14T22:09:34.557555",
+    "latency_ms": 3727,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 870
+  },
+  {
+    "request_id": "REQ-00288",
+    "timestamp": "2026-09-14T22:09:41.557555",
+    "latency_ms": 3381,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 965
+  },
+  {
+    "request_id": "REQ-00289",
+    "timestamp": "2026-09-14T22:09:48.557555",
+    "latency_ms": 6425,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 929
+  },
+  {
+    "request_id": "REQ-00290",
+    "timestamp": "2026-09-14T22:09:55.557555",
+    "latency_ms": 6361,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 927
+  },
+  {
+    "request_id": "REQ-00291",
+    "timestamp": "2026-09-14T22:10:02.557555",
+    "latency_ms": 6864,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1108
+  },
+  {
+    "request_id": "REQ-00292",
+    "timestamp": "2026-09-14T22:10:09.557555",
+    "latency_ms": 3609,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 1048
+  },
+  {
+    "request_id": "REQ-00293",
+    "timestamp": "2026-09-14T22:10:16.557555",
+    "latency_ms": 6759,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 796
+  },
+  {
+    "request_id": "REQ-00294",
+    "timestamp": "2026-09-14T22:10:23.557555",
+    "latency_ms": 4341,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 376
+  },
+  {
+    "request_id": "REQ-00295",
+    "timestamp": "2026-09-14T22:10:30.557555",
+    "latency_ms": 6681,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 1044
+  },
+  {
+    "request_id": "REQ-00296",
+    "timestamp": "2026-09-14T22:10:37.557555",
+    "latency_ms": 4197,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 309
+  },
+  {
+    "request_id": "REQ-00297",
+    "timestamp": "2026-09-14T22:10:44.557555",
+    "latency_ms": 3666,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 463
+  },
+  {
+    "request_id": "REQ-00298",
+    "timestamp": "2026-09-14T22:10:51.557555",
+    "latency_ms": 3958,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 508
+  },
+  {
+    "request_id": "REQ-00299",
+    "timestamp": "2026-09-14T22:10:58.557555",
+    "latency_ms": 6696,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 676
+  },
+  {
+    "request_id": "REQ-00300",
+    "timestamp": "2026-09-14T22:11:05.557555",
+    "latency_ms": 3991,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1149
+  },
+  {
+    "request_id": "REQ-00301",
+    "timestamp": "2026-09-14T22:11:12.557555",
+    "latency_ms": 3869,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 1108
+  },
+  {
+    "request_id": "REQ-00302",
+    "timestamp": "2026-09-14T22:11:19.557555",
+    "latency_ms": 3178,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1106
+  },
+  {
+    "request_id": "REQ-00303",
+    "timestamp": "2026-09-14T22:11:26.557555",
+    "latency_ms": 4039,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 371
+  },
+  {
+    "request_id": "REQ-00304",
+    "timestamp": "2026-09-14T22:11:33.557555",
+    "latency_ms": 6246,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 304
+  },
+  {
+    "request_id": "REQ-00305",
+    "timestamp": "2026-09-14T22:11:40.557555",
+    "latency_ms": 4802,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 1058
+  },
+  {
+    "request_id": "REQ-00306",
+    "timestamp": "2026-09-14T22:11:47.557555",
+    "latency_ms": 4877,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 1146
+  },
+  {
+    "request_id": "REQ-00307",
+    "timestamp": "2026-09-14T22:11:54.557555",
+    "latency_ms": 5588,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1113
+  },
+  {
+    "request_id": "REQ-00308",
+    "timestamp": "2026-09-14T22:12:01.557555",
+    "latency_ms": 4481,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 748
+  },
+  {
+    "request_id": "REQ-00309",
+    "timestamp": "2026-09-14T22:12:08.557555",
+    "latency_ms": 5984,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 633
+  },
+  {
+    "request_id": "REQ-00310",
+    "timestamp": "2026-09-14T22:12:15.557555",
+    "latency_ms": 6673,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 917
+  },
+  {
+    "request_id": "REQ-00311",
+    "timestamp": "2026-09-14T22:12:22.557555",
+    "latency_ms": 4836,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 554
+  },
+  {
+    "request_id": "REQ-00312",
+    "timestamp": "2026-09-14T22:12:29.557555",
+    "latency_ms": 4068,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 372
+  },
+  {
+    "request_id": "REQ-00313",
+    "timestamp": "2026-09-14T22:12:36.557555",
+    "latency_ms": 6765,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 1008
+  },
+  {
+    "request_id": "REQ-00314",
+    "timestamp": "2026-09-14T22:12:43.557555",
+    "latency_ms": 6524,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 707
+  },
+  {
+    "request_id": "REQ-00315",
+    "timestamp": "2026-09-14T22:12:50.557555",
+    "latency_ms": 4161,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 312
+  },
+  {
+    "request_id": "REQ-00316",
+    "timestamp": "2026-09-14T22:12:57.557555",
+    "latency_ms": 5981,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1049
+  },
+  {
+    "request_id": "REQ-00317",
+    "timestamp": "2026-09-14T22:13:04.557555",
+    "latency_ms": 4541,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 926
+  },
+  {
+    "request_id": "REQ-00318",
+    "timestamp": "2026-09-14T22:13:11.557555",
+    "latency_ms": 6337,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 363
+  },
+  {
+    "request_id": "REQ-00319",
+    "timestamp": "2026-09-14T22:13:18.557555",
+    "latency_ms": 6355,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 750
+  },
+  {
+    "request_id": "REQ-00320",
+    "timestamp": "2026-09-14T22:13:25.557555",
+    "latency_ms": 3915,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 342
+  },
+  {
+    "request_id": "REQ-00321",
+    "timestamp": "2026-09-14T22:13:32.557555",
+    "latency_ms": 6294,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 807
+  },
+  {
+    "request_id": "REQ-00322",
+    "timestamp": "2026-09-14T22:13:39.557555",
+    "latency_ms": 4575,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 758
+  },
+  {
+    "request_id": "REQ-00323",
+    "timestamp": "2026-09-14T22:13:46.557555",
+    "latency_ms": 3638,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 449
+  },
+  {
+    "request_id": "REQ-00324",
+    "timestamp": "2026-09-14T22:13:53.557555",
+    "latency_ms": 5843,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1177
+  },
+  {
+    "request_id": "REQ-00325",
+    "timestamp": "2026-09-14T22:14:00.557555",
+    "latency_ms": 6929,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 767
+  },
+  {
+    "request_id": "REQ-00326",
+    "timestamp": "2026-09-14T22:14:07.557555",
+    "latency_ms": 3811,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 798
+  },
+  {
+    "request_id": "REQ-00327",
+    "timestamp": "2026-09-14T22:14:14.557555",
+    "latency_ms": 4976,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 470
+  },
+  {
+    "request_id": "REQ-00328",
+    "timestamp": "2026-09-14T22:14:21.557555",
+    "latency_ms": 6061,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 714
+  },
+  {
+    "request_id": "REQ-00329",
+    "timestamp": "2026-09-14T22:14:28.557555",
+    "latency_ms": 4470,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 454
+  },
+  {
+    "request_id": "REQ-00330",
+    "timestamp": "2026-09-14T22:14:35.557555",
+    "latency_ms": 6247,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 419
+  },
+  {
+    "request_id": "REQ-00331",
+    "timestamp": "2026-09-14T22:14:42.557555",
+    "latency_ms": 3809,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1009
+  },
+  {
+    "request_id": "REQ-00332",
+    "timestamp": "2026-09-14T22:14:49.557555",
+    "latency_ms": 4682,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 419
+  },
+  {
+    "request_id": "REQ-00333",
+    "timestamp": "2026-09-14T22:14:56.557555",
+    "latency_ms": 4237,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 698
+  },
+  {
+    "request_id": "REQ-00334",
+    "timestamp": "2026-09-14T22:15:03.557555",
+    "latency_ms": 4265,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1185
+  },
+  {
+    "request_id": "REQ-00335",
+    "timestamp": "2026-09-14T22:15:10.557555",
+    "latency_ms": 3787,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 980
+  },
+  {
+    "request_id": "REQ-00336",
+    "timestamp": "2026-09-14T22:15:17.557555",
+    "latency_ms": 3074,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 435
+  },
+  {
+    "request_id": "REQ-00337",
+    "timestamp": "2026-09-14T22:15:24.557555",
+    "latency_ms": 3813,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 930
+  },
+  {
+    "request_id": "REQ-00338",
+    "timestamp": "2026-09-14T22:15:31.557555",
+    "latency_ms": 5973,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 928
+  },
+  {
+    "request_id": "REQ-00339",
+    "timestamp": "2026-09-14T22:15:38.557555",
+    "latency_ms": 4795,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 810
+  },
+  {
+    "request_id": "REQ-00340",
+    "timestamp": "2026-09-14T22:15:45.557555",
+    "latency_ms": 4419,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1095
+  },
+  {
+    "request_id": "REQ-00341",
+    "timestamp": "2026-09-14T22:15:52.557555",
+    "latency_ms": 4363,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 524
+  },
+  {
+    "request_id": "REQ-00342",
+    "timestamp": "2026-09-14T22:15:59.557555",
+    "latency_ms": 5881,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1192
+  },
+  {
+    "request_id": "REQ-00343",
+    "timestamp": "2026-09-14T22:16:06.557555",
+    "latency_ms": 6499,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 896
+  },
+  {
+    "request_id": "REQ-00344",
+    "timestamp": "2026-09-14T22:16:13.557555",
+    "latency_ms": 4965,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 993
+  },
+  {
+    "request_id": "REQ-00345",
+    "timestamp": "2026-09-14T22:16:20.557555",
+    "latency_ms": 3474,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 668
+  },
+  {
+    "request_id": "REQ-00346",
+    "timestamp": "2026-09-14T22:16:27.557555",
+    "latency_ms": 4365,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 1125
+  },
+  {
+    "request_id": "REQ-00347",
+    "timestamp": "2026-09-14T22:16:34.557555",
+    "latency_ms": 5090,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 574
+  },
+  {
+    "request_id": "REQ-00348",
+    "timestamp": "2026-09-14T22:16:41.557555",
+    "latency_ms": 6257,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 882
+  },
+  {
+    "request_id": "REQ-00349",
+    "timestamp": "2026-09-14T22:16:48.557555",
+    "latency_ms": 5577,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 491
+  },
+  {
+    "request_id": "REQ-00350",
+    "timestamp": "2026-09-14T22:16:55.557555",
+    "latency_ms": 4660,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 609
+  },
+  {
+    "request_id": "REQ-00351",
+    "timestamp": "2026-09-14T22:17:02.557555",
+    "latency_ms": 6878,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 341
+  },
+  {
+    "request_id": "REQ-00352",
+    "timestamp": "2026-09-14T22:17:09.557555",
+    "latency_ms": 5429,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 834
+  },
+  {
+    "request_id": "REQ-00353",
+    "timestamp": "2026-09-14T22:17:16.557555",
+    "latency_ms": 4298,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1150
+  },
+  {
+    "request_id": "REQ-00354",
+    "timestamp": "2026-09-14T22:17:23.557555",
+    "latency_ms": 5978,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 982
+  },
+  {
+    "request_id": "REQ-00355",
+    "timestamp": "2026-09-14T22:17:30.557555",
+    "latency_ms": 6705,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 1048
+  },
+  {
+    "request_id": "REQ-00356",
+    "timestamp": "2026-09-14T22:17:37.557555",
+    "latency_ms": 4252,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 845
+  },
+  {
+    "request_id": "REQ-00357",
+    "timestamp": "2026-09-14T22:17:44.557555",
+    "latency_ms": 4675,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 405
+  },
+  {
+    "request_id": "REQ-00358",
+    "timestamp": "2026-09-14T22:17:51.557555",
+    "latency_ms": 5541,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 349
+  },
+  {
+    "request_id": "REQ-00359",
+    "timestamp": "2026-09-14T22:17:58.557555",
+    "latency_ms": 6334,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 361
+  },
+  {
+    "request_id": "REQ-00360",
+    "timestamp": "2026-09-14T22:18:05.557555",
+    "latency_ms": 3587,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 906
+  },
+  {
+    "request_id": "REQ-00361",
+    "timestamp": "2026-09-14T22:18:12.557555",
+    "latency_ms": 3924,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 407
+  },
+  {
+    "request_id": "REQ-00362",
+    "timestamp": "2026-09-14T22:18:19.557555",
+    "latency_ms": 6325,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 907
+  },
+  {
+    "request_id": "REQ-00363",
+    "timestamp": "2026-09-14T22:18:26.557555",
+    "latency_ms": 3550,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 578
+  },
+  {
+    "request_id": "REQ-00364",
+    "timestamp": "2026-09-14T22:18:33.557555",
+    "latency_ms": 4836,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1003
+  },
+  {
+    "request_id": "REQ-00365",
+    "timestamp": "2026-09-14T22:18:40.557555",
+    "latency_ms": 6819,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1184
+  },
+  {
+    "request_id": "REQ-00366",
+    "timestamp": "2026-09-14T22:18:47.557555",
+    "latency_ms": 3634,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 419
+  },
+  {
+    "request_id": "REQ-00367",
+    "timestamp": "2026-09-14T22:18:54.557555",
+    "latency_ms": 4029,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 590
+  },
+  {
+    "request_id": "REQ-00368",
+    "timestamp": "2026-09-14T22:19:01.557555",
+    "latency_ms": 6911,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 897
+  },
+  {
+    "request_id": "REQ-00369",
+    "timestamp": "2026-09-14T22:19:08.557555",
+    "latency_ms": 4446,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1081
+  },
+  {
+    "request_id": "REQ-00370",
+    "timestamp": "2026-09-14T22:19:15.557555",
+    "latency_ms": 6634,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 1184
+  },
+  {
+    "request_id": "REQ-00371",
+    "timestamp": "2026-09-14T22:19:22.557555",
+    "latency_ms": 5164,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 398
+  },
+  {
+    "request_id": "REQ-00372",
+    "timestamp": "2026-09-14T22:19:29.557555",
+    "latency_ms": 4121,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 558
+  },
+  {
+    "request_id": "REQ-00373",
+    "timestamp": "2026-09-14T22:19:36.557555",
+    "latency_ms": 3806,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 685
+  },
+  {
+    "request_id": "REQ-00374",
+    "timestamp": "2026-09-14T22:19:43.557555",
+    "latency_ms": 5917,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 494
+  },
+  {
+    "request_id": "REQ-00375",
+    "timestamp": "2026-09-14T22:19:50.557555",
+    "latency_ms": 3940,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 592
+  },
+  {
+    "request_id": "REQ-00376",
+    "timestamp": "2026-09-14T22:19:57.557555",
+    "latency_ms": 5637,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 776
+  },
+  {
+    "request_id": "REQ-00377",
+    "timestamp": "2026-09-14T22:20:04.557555",
+    "latency_ms": 3117,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 437
+  },
+  {
+    "request_id": "REQ-00378",
+    "timestamp": "2026-09-14T22:20:11.557555",
+    "latency_ms": 4459,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 712
+  },
+  {
+    "request_id": "REQ-00379",
+    "timestamp": "2026-09-14T22:20:18.557555",
+    "latency_ms": 3990,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 963
+  },
+  {
+    "request_id": "REQ-00380",
+    "timestamp": "2026-09-14T22:20:25.557555",
+    "latency_ms": 6236,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 929
+  },
+  {
+    "request_id": "REQ-00381",
+    "timestamp": "2026-09-14T22:20:32.557555",
+    "latency_ms": 3584,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 811
+  },
+  {
+    "request_id": "REQ-00382",
+    "timestamp": "2026-09-14T22:20:39.557555",
+    "latency_ms": 4926,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 655
+  },
+  {
+    "request_id": "REQ-00383",
+    "timestamp": "2026-09-14T22:20:46.557555",
+    "latency_ms": 6450,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 1135
+  },
+  {
+    "request_id": "REQ-00384",
+    "timestamp": "2026-09-14T22:20:53.557555",
+    "latency_ms": 6055,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 619
+  },
+  {
+    "request_id": "REQ-00385",
+    "timestamp": "2026-09-14T22:21:00.557555",
+    "latency_ms": 3677,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 731
+  },
+  {
+    "request_id": "REQ-00386",
+    "timestamp": "2026-09-14T22:21:07.557555",
+    "latency_ms": 6999,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 342
+  },
+  {
+    "request_id": "REQ-00387",
+    "timestamp": "2026-09-14T22:21:14.557555",
+    "latency_ms": 5678,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 1153
+  },
+  {
+    "request_id": "REQ-00388",
+    "timestamp": "2026-09-14T22:21:21.557555",
+    "latency_ms": 3638,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 869
+  },
+  {
+    "request_id": "REQ-00389",
+    "timestamp": "2026-09-14T22:21:28.557555",
+    "latency_ms": 3283,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 819
+  },
+  {
+    "request_id": "REQ-00390",
+    "timestamp": "2026-09-14T22:21:35.557555",
+    "latency_ms": 3929,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 307
+  },
+  {
+    "request_id": "REQ-00391",
+    "timestamp": "2026-09-14T22:21:42.557555",
+    "latency_ms": 5318,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1005
+  },
+  {
+    "request_id": "REQ-00392",
+    "timestamp": "2026-09-14T22:21:49.557555",
+    "latency_ms": 4553,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 476
+  },
+  {
+    "request_id": "REQ-00393",
+    "timestamp": "2026-09-14T22:21:56.557555",
+    "latency_ms": 3958,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 368
+  },
+  {
+    "request_id": "REQ-00394",
+    "timestamp": "2026-09-14T22:22:03.557555",
+    "latency_ms": 4912,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 688
+  },
+  {
+    "request_id": "REQ-00395",
+    "timestamp": "2026-09-14T22:22:10.557555",
+    "latency_ms": 6373,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 390
+  },
+  {
+    "request_id": "REQ-00396",
+    "timestamp": "2026-09-14T22:22:17.557555",
+    "latency_ms": 5467,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 525
+  },
+  {
+    "request_id": "REQ-00397",
+    "timestamp": "2026-09-14T22:22:24.557555",
+    "latency_ms": 6071,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 898
+  },
+  {
+    "request_id": "REQ-00398",
+    "timestamp": "2026-09-14T22:22:31.557555",
+    "latency_ms": 4765,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 377
+  },
+  {
+    "request_id": "REQ-00399",
+    "timestamp": "2026-09-14T22:22:38.557555",
+    "latency_ms": 5102,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1176
+  },
+  {
+    "request_id": "REQ-00400",
+    "timestamp": "2026-09-14T22:22:45.557555",
+    "latency_ms": 4567,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 411
+  },
+  {
+    "request_id": "REQ-00401",
+    "timestamp": "2026-09-14T22:22:52.557555",
+    "latency_ms": 6638,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 449
+  },
+  {
+    "request_id": "REQ-00402",
+    "timestamp": "2026-09-14T22:22:59.557555",
+    "latency_ms": 5251,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 402
+  },
+  {
+    "request_id": "REQ-00403",
+    "timestamp": "2026-09-14T22:23:06.557555",
+    "latency_ms": 6457,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 856
+  },
+  {
+    "request_id": "REQ-00404",
+    "timestamp": "2026-09-14T22:23:13.557555",
+    "latency_ms": 3066,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 716
+  },
+  {
+    "request_id": "REQ-00405",
+    "timestamp": "2026-09-14T22:23:20.557555",
+    "latency_ms": 5319,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 341
+  },
+  {
+    "request_id": "REQ-00406",
+    "timestamp": "2026-09-14T22:23:27.557555",
+    "latency_ms": 3018,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1154
+  },
+  {
+    "request_id": "REQ-00407",
+    "timestamp": "2026-09-14T22:23:34.557555",
+    "latency_ms": 4544,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 375
+  },
+  {
+    "request_id": "REQ-00408",
+    "timestamp": "2026-09-14T22:23:41.557555",
+    "latency_ms": 4426,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 416
+  },
+  {
+    "request_id": "REQ-00409",
+    "timestamp": "2026-09-14T22:23:48.557555",
+    "latency_ms": 5094,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 630
+  },
+  {
+    "request_id": "REQ-00410",
+    "timestamp": "2026-09-14T22:23:55.557555",
+    "latency_ms": 3359,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 505
+  },
+  {
+    "request_id": "REQ-00411",
+    "timestamp": "2026-09-14T22:24:02.557555",
+    "latency_ms": 4748,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 979
+  },
+  {
+    "request_id": "REQ-00412",
+    "timestamp": "2026-09-14T22:24:09.557555",
+    "latency_ms": 6690,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 1181
+  },
+  {
+    "request_id": "REQ-00413",
+    "timestamp": "2026-09-14T22:24:16.557555",
+    "latency_ms": 3676,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 319
+  },
+  {
+    "request_id": "REQ-00414",
+    "timestamp": "2026-09-14T22:24:23.557555",
+    "latency_ms": 4400,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 839
+  },
+  {
+    "request_id": "REQ-00415",
+    "timestamp": "2026-09-14T22:24:30.557555",
+    "latency_ms": 6410,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1088
+  },
+  {
+    "request_id": "REQ-00416",
+    "timestamp": "2026-09-14T22:24:37.557555",
+    "latency_ms": 6559,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1158
+  },
+  {
+    "request_id": "REQ-00417",
+    "timestamp": "2026-09-14T22:24:44.557555",
+    "latency_ms": 6767,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 463
+  },
+  {
+    "request_id": "REQ-00418",
+    "timestamp": "2026-09-14T22:24:51.557555",
+    "latency_ms": 3807,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 858
+  },
+  {
+    "request_id": "REQ-00419",
+    "timestamp": "2026-09-14T22:24:58.557555",
+    "latency_ms": 3851,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 783
+  },
+  {
+    "request_id": "REQ-00420",
+    "timestamp": "2026-09-14T22:25:05.557555",
+    "latency_ms": 6213,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 404
+  },
+  {
+    "request_id": "REQ-00421",
+    "timestamp": "2026-09-14T22:25:12.557555",
+    "latency_ms": 3947,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 926
+  },
+  {
+    "request_id": "REQ-00422",
+    "timestamp": "2026-09-14T22:25:19.557555",
+    "latency_ms": 4258,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 925
+  },
+  {
+    "request_id": "REQ-00423",
+    "timestamp": "2026-09-14T22:25:26.557555",
+    "latency_ms": 4799,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 386
+  },
+  {
+    "request_id": "REQ-00424",
+    "timestamp": "2026-09-14T22:25:33.557555",
+    "latency_ms": 6259,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 1180
+  },
+  {
+    "request_id": "REQ-00425",
+    "timestamp": "2026-09-14T22:25:40.557555",
+    "latency_ms": 5539,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1113
+  },
+  {
+    "request_id": "REQ-00426",
+    "timestamp": "2026-09-14T22:25:47.557555",
+    "latency_ms": 4081,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1097
+  },
+  {
+    "request_id": "REQ-00427",
+    "timestamp": "2026-09-14T22:25:54.557555",
+    "latency_ms": 6214,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 440
+  },
+  {
+    "request_id": "REQ-00428",
+    "timestamp": "2026-09-14T22:26:01.557555",
+    "latency_ms": 6894,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 820
+  },
+  {
+    "request_id": "REQ-00429",
+    "timestamp": "2026-09-14T22:26:08.557555",
+    "latency_ms": 3800,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 465
+  },
+  {
+    "request_id": "REQ-00430",
+    "timestamp": "2026-09-14T22:26:15.557555",
+    "latency_ms": 4145,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1118
+  },
+  {
+    "request_id": "REQ-00431",
+    "timestamp": "2026-09-14T22:26:22.557555",
+    "latency_ms": 5351,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 433
+  },
+  {
+    "request_id": "REQ-00432",
+    "timestamp": "2026-09-14T22:26:29.557555",
+    "latency_ms": 5410,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 548
+  },
+  {
+    "request_id": "REQ-00433",
+    "timestamp": "2026-09-14T22:26:36.557555",
+    "latency_ms": 4211,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 544
+  },
+  {
+    "request_id": "REQ-00434",
+    "timestamp": "2026-09-14T22:26:43.557555",
+    "latency_ms": 5119,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 491
+  },
+  {
+    "request_id": "REQ-00435",
+    "timestamp": "2026-09-14T22:26:50.557555",
+    "latency_ms": 4519,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 455
+  },
+  {
+    "request_id": "REQ-00436",
+    "timestamp": "2026-09-14T22:26:57.557555",
+    "latency_ms": 5329,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 1073
+  },
+  {
+    "request_id": "REQ-00437",
+    "timestamp": "2026-09-14T22:27:04.557555",
+    "latency_ms": 3388,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 663
+  },
+  {
+    "request_id": "REQ-00438",
+    "timestamp": "2026-09-14T22:27:11.557555",
+    "latency_ms": 6586,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 690
+  },
+  {
+    "request_id": "REQ-00439",
+    "timestamp": "2026-09-14T22:27:18.557555",
+    "latency_ms": 3856,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 612
+  },
+  {
+    "request_id": "REQ-00440",
+    "timestamp": "2026-09-14T22:27:25.557555",
+    "latency_ms": 6864,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 436
+  },
+  {
+    "request_id": "REQ-00441",
+    "timestamp": "2026-09-14T22:27:32.557555",
+    "latency_ms": 4016,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 562
+  },
+  {
+    "request_id": "REQ-00442",
+    "timestamp": "2026-09-14T22:27:39.557555",
+    "latency_ms": 3519,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 771
+  },
+  {
+    "request_id": "REQ-00443",
+    "timestamp": "2026-09-14T22:27:46.557555",
+    "latency_ms": 3727,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1168
+  },
+  {
+    "request_id": "REQ-00444",
+    "timestamp": "2026-09-14T22:27:53.557555",
+    "latency_ms": 4861,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1020
+  },
+  {
+    "request_id": "REQ-00445",
+    "timestamp": "2026-09-14T22:28:00.557555",
+    "latency_ms": 6005,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 641
+  },
+  {
+    "request_id": "REQ-00446",
+    "timestamp": "2026-09-14T22:28:07.557555",
+    "latency_ms": 6919,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1011
+  },
+  {
+    "request_id": "REQ-00447",
+    "timestamp": "2026-09-14T22:28:14.557555",
+    "latency_ms": 4246,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 419
+  },
+  {
+    "request_id": "REQ-00448",
+    "timestamp": "2026-09-14T22:28:21.557555",
+    "latency_ms": 6226,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 457
+  },
+  {
+    "request_id": "REQ-00449",
+    "timestamp": "2026-09-14T22:28:28.557555",
+    "latency_ms": 6949,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 804
+  },
+  {
+    "request_id": "REQ-00450",
+    "timestamp": "2026-09-14T22:28:35.557555",
+    "latency_ms": 4967,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 797
+  },
+  {
+    "request_id": "REQ-00451",
+    "timestamp": "2026-09-14T22:28:42.557555",
+    "latency_ms": 4034,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1088
+  },
+  {
+    "request_id": "REQ-00452",
+    "timestamp": "2026-09-14T22:28:49.557555",
+    "latency_ms": 4196,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1189
+  },
+  {
+    "request_id": "REQ-00453",
+    "timestamp": "2026-09-14T22:28:56.557555",
+    "latency_ms": 5515,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 372
+  },
+  {
+    "request_id": "REQ-00454",
+    "timestamp": "2026-09-14T22:29:03.557555",
+    "latency_ms": 4361,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 352
+  },
+  {
+    "request_id": "REQ-00455",
+    "timestamp": "2026-09-14T22:29:10.557555",
+    "latency_ms": 3248,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1112
+  },
+  {
+    "request_id": "REQ-00456",
+    "timestamp": "2026-09-14T22:29:17.557555",
+    "latency_ms": 3451,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 1157
+  },
+  {
+    "request_id": "REQ-00457",
+    "timestamp": "2026-09-14T22:29:24.557555",
+    "latency_ms": 5592,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 538
+  },
+  {
+    "request_id": "REQ-00458",
+    "timestamp": "2026-09-14T22:29:31.557555",
+    "latency_ms": 3880,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1181
+  },
+  {
+    "request_id": "REQ-00459",
+    "timestamp": "2026-09-14T22:29:38.557555",
+    "latency_ms": 5763,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 574
+  },
+  {
+    "request_id": "REQ-00460",
+    "timestamp": "2026-09-14T22:29:45.557555",
+    "latency_ms": 5459,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 699
+  },
+  {
+    "request_id": "REQ-00461",
+    "timestamp": "2026-09-14T22:29:52.557555",
+    "latency_ms": 6390,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 821
+  },
+  {
+    "request_id": "REQ-00462",
+    "timestamp": "2026-09-14T22:29:59.557555",
+    "latency_ms": 3895,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 572
+  },
+  {
+    "request_id": "REQ-00463",
+    "timestamp": "2026-09-14T22:30:06.557555",
+    "latency_ms": 6484,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 942
+  },
+  {
+    "request_id": "REQ-00464",
+    "timestamp": "2026-09-14T22:30:13.557555",
+    "latency_ms": 6167,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 537
+  },
+  {
+    "request_id": "REQ-00465",
+    "timestamp": "2026-09-14T22:30:20.557555",
+    "latency_ms": 4590,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1197
+  },
+  {
+    "request_id": "REQ-00466",
+    "timestamp": "2026-09-14T22:30:27.557555",
+    "latency_ms": 6181,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 525
+  },
+  {
+    "request_id": "REQ-00467",
+    "timestamp": "2026-09-14T22:30:34.557555",
+    "latency_ms": 4137,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 833
+  },
+  {
+    "request_id": "REQ-00468",
+    "timestamp": "2026-09-14T22:30:41.557555",
+    "latency_ms": 3898,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 479
+  },
+  {
+    "request_id": "REQ-00469",
+    "timestamp": "2026-09-14T22:30:48.557555",
+    "latency_ms": 3299,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 940
+  },
+  {
+    "request_id": "REQ-00470",
+    "timestamp": "2026-09-14T22:30:55.557555",
+    "latency_ms": 3555,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 723
+  },
+  {
+    "request_id": "REQ-00471",
+    "timestamp": "2026-09-14T22:31:02.557555",
+    "latency_ms": 3016,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 682
+  },
+  {
+    "request_id": "REQ-00472",
+    "timestamp": "2026-09-14T22:31:09.557555",
+    "latency_ms": 4868,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 739
+  },
+  {
+    "request_id": "REQ-00473",
+    "timestamp": "2026-09-14T22:31:16.557555",
+    "latency_ms": 3461,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 462
+  },
+  {
+    "request_id": "REQ-00474",
+    "timestamp": "2026-09-14T22:31:23.557555",
+    "latency_ms": 4463,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 411
+  },
+  {
+    "request_id": "REQ-00475",
+    "timestamp": "2026-09-14T22:31:30.557555",
+    "latency_ms": 5651,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 369
+  },
+  {
+    "request_id": "REQ-00476",
+    "timestamp": "2026-09-14T22:31:37.557555",
+    "latency_ms": 5690,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 833
+  },
+  {
+    "request_id": "REQ-00477",
+    "timestamp": "2026-09-14T22:31:44.557555",
+    "latency_ms": 6746,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 906
+  },
+  {
+    "request_id": "REQ-00478",
+    "timestamp": "2026-09-14T22:31:51.557555",
+    "latency_ms": 6790,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 785
+  },
+  {
+    "request_id": "REQ-00479",
+    "timestamp": "2026-09-14T22:31:58.557555",
+    "latency_ms": 3456,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 386
+  },
+  {
+    "request_id": "REQ-00480",
+    "timestamp": "2026-09-14T22:32:05.557555",
+    "latency_ms": 3420,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 642
+  },
+  {
+    "request_id": "REQ-00481",
+    "timestamp": "2026-09-14T22:32:12.557555",
+    "latency_ms": 6968,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 933
+  },
+  {
+    "request_id": "REQ-00482",
+    "timestamp": "2026-09-14T22:32:19.557555",
+    "latency_ms": 5118,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 371
+  },
+  {
+    "request_id": "REQ-00483",
+    "timestamp": "2026-09-14T22:32:26.557555",
+    "latency_ms": 6353,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 412
+  },
+  {
+    "request_id": "REQ-00484",
+    "timestamp": "2026-09-14T22:32:33.557555",
+    "latency_ms": 4203,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 536
+  },
+  {
+    "request_id": "REQ-00485",
+    "timestamp": "2026-09-14T22:32:40.557555",
+    "latency_ms": 5925,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 797
+  },
+  {
+    "request_id": "REQ-00486",
+    "timestamp": "2026-09-14T22:32:47.557555",
+    "latency_ms": 3905,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 396
+  },
+  {
+    "request_id": "REQ-00487",
+    "timestamp": "2026-09-14T22:32:54.557555",
+    "latency_ms": 6031,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 348
+  },
+  {
+    "request_id": "REQ-00488",
+    "timestamp": "2026-09-14T22:33:01.557555",
+    "latency_ms": 4925,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 1031
+  },
+  {
+    "request_id": "REQ-00489",
+    "timestamp": "2026-09-14T22:33:08.557555",
+    "latency_ms": 6668,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 808
+  },
+  {
+    "request_id": "REQ-00490",
+    "timestamp": "2026-09-14T22:33:15.557555",
+    "latency_ms": 6190,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 955
+  },
+  {
+    "request_id": "REQ-00491",
+    "timestamp": "2026-09-14T22:33:22.557555",
+    "latency_ms": 5194,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 729
+  },
+  {
+    "request_id": "REQ-00492",
+    "timestamp": "2026-09-14T22:33:29.557555",
+    "latency_ms": 3972,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 712
+  },
+  {
+    "request_id": "REQ-00493",
+    "timestamp": "2026-09-14T22:33:36.557555",
+    "latency_ms": 4928,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 550
+  },
+  {
+    "request_id": "REQ-00494",
+    "timestamp": "2026-09-14T22:33:43.557555",
+    "latency_ms": 4010,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 1042
+  },
+  {
+    "request_id": "REQ-00495",
+    "timestamp": "2026-09-14T22:33:50.557555",
+    "latency_ms": 3166,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 374
+  },
+  {
+    "request_id": "REQ-00496",
+    "timestamp": "2026-09-14T22:33:57.557555",
+    "latency_ms": 3519,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 783
+  },
+  {
+    "request_id": "REQ-00497",
+    "timestamp": "2026-09-14T22:34:04.557555",
+    "latency_ms": 4290,
+    "status": "success",
+    "tool": "sql",
+    "tokens": 692
+  },
+  {
+    "request_id": "REQ-00498",
+    "timestamp": "2026-09-14T22:34:11.557555",
+    "latency_ms": 4603,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 677
+  },
+  {
+    "request_id": "REQ-00499",
+    "timestamp": "2026-09-14T22:34:18.557555",
+    "latency_ms": 5727,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 663
+  },
+  {
+    "request_id": "REQ-00500",
+    "timestamp": "2026-09-14T22:34:25.557555",
+    "latency_ms": 3676,
+    "status": "error",
+    "tool": "sql",
+    "tokens": 460
+  }
+]

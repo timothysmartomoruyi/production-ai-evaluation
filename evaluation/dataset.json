@@ -1,0 +1,43 @@
+[
+  {
+    "id": "incident_001",
+    "incident": {
+      "type": "HIGH_ERROR_RATE",
+      "severity": "HIGH",
+      "message": "Production error rate exceeded threshold"
+    },
+    "expected_root_cause": "SQL tool",
+    "required_evidence": [
+      "sql",
+      "error rate",
+      "failures"
+    ]
+  },
+  {
+    "id": "incident_002",
+    "incident": {
+      "type": "HIGH_LATENCY",
+      "severity": "HIGH",
+      "message": "Production latency exceeded threshold"
+    },
+    "expected_root_cause": "SQL tool",
+    "required_evidence": [
+      "latency",
+      "sql"
+    ]
+  },
+  {
+    "id": "incident_003",
+    "incident": {
+      "type": "TOOL_FAILURE",
+      "severity": "HIGH",
+      "message": "SQL tool error rate exceeded threshold"
+    },
+    "expected_root_cause": "SQL tool",
+    "required_evidence": [
+      "sql",
+      "error rate",
+      "latency"
+    ]
+  }
+]

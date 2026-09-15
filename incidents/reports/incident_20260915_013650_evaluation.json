@@ -1,0 +1,16 @@
+{
+  "report_file": "incident_20260915_013650.json",
+  "incident": {
+    "type": "HIGH_LATENCY",
+    "severity": "HIGH",
+    "message": "Average latency is 2866.19ms"
+  },
+  "evaluation": {
+    "cause_match": true,
+    "evidence_score": 1.0,
+    "grounding_score": 1.0,
+    "overall_score": 1.0,
+    "unsupported_claims": [],
+    "passed": true
+  }
+}
